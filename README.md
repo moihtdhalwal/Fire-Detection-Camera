@@ -1,1 +1,2 @@
 # Fire-Detection-Camera
+Fire detection is safety measure which is employed in almost every building these days. So the purpose of this project is the same, the script runs and takes input from the camera and using OpenCV and some mathematical fomulas , generates a warning depending on the conditions in the frame. The input camera can be switched as per requirement. Also, as an extension using adruino, physical alarms can be connected and used to generate alarm sound.
